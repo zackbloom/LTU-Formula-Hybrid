@@ -1,0 +1,39 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "Controller Board v12.brd" as of: 1/14/2010 5:49:30 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Bottom,2.086,1.286,0
+C2,Top,0.869,0.620,270
+C3,Bottom,1.506,1.024,90
+C4,Top,1.761,1.341,0
+C5,Top,1.744,0.282,270
+C6,Bottom,2.069,0.736,90
+C7,Top,2.294,1.256,180
+C8,Top,2.651,0.641,180
+C9,Top,1.345,0.694,180
+IC1,Top,2.166,1.456,270
+IC2,Bottom,1.969,0.930,0
+L5V,Top,1.894,0.251,90
+LEXE,Top,2.038,0.555,270
+LRX,Top,2.651,0.561,270
+LTX,Top,2.651,0.491,270
+QCAN,Top,2.719,1.031,270
+QPROP,Top,2.504,1.031,90
+R1,Bottom,1.881,1.211,0
+R2,Top,0.689,0.494,180
+R3,Top,2.519,0.586,90
+R4,Top,2.298,0.468,90
+R5,Top,2.036,0.287,90
+R6,Top,1.900,0.555,180
+R7,Bottom,2.356,0.730,90
+R8,Bottom,0.922,1.410,90
+U$1,Top,1.819,0.986,0
+U$3,Bottom,1.075,0.950,270
+U$4,Top,2.269,0.736,90
+U$5,Bottom,1.749,0.956,0
+U$6,Top,1.400,0.986,90
+U1,Bottom,0.863,1.200,270
+X1,Top,1.714,1.609,270

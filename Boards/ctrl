@@ -1,0 +1,53 @@
+Partlist
+
+Exported from Controller Board v12.brd at 1/8/2010 4:32:12 PM
+
+EAGLE Version 5.6.0 Copyright (c) 1988-2009 CadSoft
+
+Part     Value              Package      Library            Position (inch)       Orientation
+
+C1       3.3uF              C0805        rcl                (2.086252 1.286256)   MR0
+C2       22uF               C1210        rcl                (0.868748 0.62)       R270
+C3       1uF                C0805        resistor           (1.506248 1.023748)   MR90
+C4       .1uF               C0805        rcl                (1.761252 1.341248)   R0
+C5       .1uF               C0805        rcl                (1.743744 0.2825)     R270
+C6       1uF                C0805        rcl                (2.068752 0.736252)   MR90
+C7       2.2uF              C0805        rcl                (2.293752 1.256252)   R180
+C8       2.2uF              C0805        rcl                (2.651252 0.641252)   R180
+C9       1uF                C0805        resistor           (1.344992 0.69376)    R180
+CAN1     430450402430450402 430450402    con-amp            (0.358752 1.193756)   R270
+CAN2     430450402430450402 430450402    con-amp            (0.357504 0.778752)   R270
+IC1                         SOT223       linear-technology  (2.166252 1.456252)   R270
+IC2      24LCS52ST          TSSOP8       microchip          (1.968752 0.930004)   MR0
+JP1                         JP1          jumper             (0.706252 0.386252)   R270
+JP2                         JP2W         jumper             (0.72 1.4975)         R0
+JP3                         JP1          jumper             (1.15 0.137504)       R180
+JP4                         JP1          jumper             (0.931256 0.1375)     R0
+L5V                         CHIP-LED0805 led                (1.893748 0.251248)   R90
+LEXE                        CHIP-LED0805 led                (2.0375 0.555)        R270
+LRX                         CHIP-LED0805 led                (2.651252 0.561252)   R270
+LTX                         CHIP-LED0805 led                (2.651252 0.491252)   R270
+QCAN     16Mhz              HC49UP       crystal            (2.718752 1.031252)   R270
+QPROP    5Mhz               HC49UP       crystal            (2.503752 1.031252)   R90
+R1       10k                R0603        rcl                (1.881252 1.211252)   MR0
+R2       120                R0603        rcl                (0.688748 0.493752)   R180
+R3       68                 R0603        rcl                (2.518752 0.586252)   R90
+R4       68                 R0603        rcl                (2.297504 0.467504)   R90
+R5       150                R0603        rcl                (2.036252 0.287496)   R90
+R6       68                 R0603        rcl                (1.900004 0.554996)   R180
+R7       10k                R0603        rcl                (2.356252 0.73)       MR90
+R8       30k                R0603        rcl                (0.9225 1.41)         MR90
+SV1                         MA04-2       con-lstb           (1.318752 0.336252)   R270
+SV2                         MA04-2       con-lstb           (1.318752 1.536252)   R270
+TCK      TPPAD1-13          P1-13        testpad            (2.268752 0.936256)   R0
+TCS      TPPAD1-13          P1-13        testpad            (2.268752 0.636252)   R0
+TSI      TPPAD1-13          P1-13        testpad            (2.268752 0.836252)   R0
+TSO      TPPAD1-13          P1-13        testpad            (2.268752 0.736252)   R0
+U$1      P8X32A-Q44         P8X32A-Q44   parallax_propeller (1.818752 0.986252)   R0
+U$2      VINF-VWRBS2        VINF-VWRBS2  dc-dc-converter    (1.250004 0.992504)   MR180
+U$3      ADUM1201           SO8          analog-devices     (1.075 0.95)          MR270
+U$4      MCP2515TSOP        TSSOP20      MCP2515_MT         (2.268752 0.736252)   R90
+U$5      M25PE20            S08N         Flash              (1.748752 0.956248)   MR0
+U$6      MAX3000E           TQFN-20      Level Shifters     (1.406248 1.036252)   R90
+U1       MCP2551            SO08         SparkFun           (0.8625 1.2)          MR270
+X1       USBSMD             USB-MINIB    SparkFun           (1.713752 1.608752)   R270
